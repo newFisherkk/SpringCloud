@@ -1,0 +1,4 @@
+org\springcloud\hystrix\DepartmentClientServiceFallbackFactory.class
+org\springcloud\hystrix\DepartmentClientServiceFallbackFactory$1.class
+org\springcloud\entities\Dept.class
+org\springcloud\feign\DeptClientService.class

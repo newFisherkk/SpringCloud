@@ -1,0 +1,5 @@
+org\springcloud\cfgbeans\ConfigBean.class
+org\springcloud\controller\DeptController_Consumer.class
+org\ribbonruler\RandomAcessRule_ZK.class
+org\springcloud\DeptConsumerApp_81.class
+org\ribbonruler\Myruler.class

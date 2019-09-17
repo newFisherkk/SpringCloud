@@ -1,0 +1,30 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: springcloud-zuul-gateway-9527
+
+eureka:
+  client: #客Be户端注册进eureka服务列表内
+    service-url:
+      #defaultZone: http://localhost:7001/eureka #单机
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: springcloud-zuul-gateway-9527
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+zuul:
+  #ignored-services: moyingren-department
+  ignored-services: "*"
+  prefix: /springcloud
+  routes:  #zkdept可以随便改  最后地址为
+  #http://localhost:9527/springcloud/dept/dept/list
+    zkdept.serviceId: springcloud-department
+    zkdept.path: /dept/**
+
+info:
+  app.name: springcloudhelloworld
+  company.name: www.springcloudhelloworld.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$

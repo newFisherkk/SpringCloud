@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9af3b6d5-d6ce-4a7b-acb4-ee8ad4270a63" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Programa Files\repository" />
+        <option name="mavenHome" value="D:/Programa Files/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Programa Files\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qr4UpaRn3Lvl2BYn7mZ9aGVA5J" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-config-provider-8001/src/main/java/org/springcloud/config/dao" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.24852072" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\eclipse-workspace\springcloud-master\springcloud-config-provider-8001\src\main\java\org\springcloud\config\dao" />
+      <recent name="C:\Users\Administrator\eclipse-workspace\springcloud-master\springcloud-config-provider-8001\src\main\java\org\springcloud\config\service\impl" />
+      <recent name="C:\Users\Administrator\eclipse-workspace\springcloud-master\springcloud-config-provider-8001\src\main\java\org\springcloud\config\controller" />
+      <recent name="C:\Users\Administrator\eclipse-workspace\springcloud-master\springcloud-config-provider-8001\src\main\resources" />
+      <recent name="C:\Users\Administrator\eclipse-workspace\springcloud-master\springcloud-config-provider-8001\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigClientApp_3355">
+    <configuration name="App_eureka_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka--7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.App_eureka_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App_eureka_7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-eureka-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.App_eureka_7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App_eureka_7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-eureka-7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.App_eureka_7003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApp_3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-config-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.ConfigApp_3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApp_3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.ConfigClientApp_3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigEurekaApp_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-config-eureka-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.ConfigEurekaApp_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigProviderApp_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-config-provider-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.ConfigProviderApp_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumerApp_81" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-dept-consumer-81" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.DeptConsumerApp_81" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptConsumerFeignApp_82" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-dept-consumer-feign-82" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.DeptConsumerFeignApp_82" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvideApp_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-dept-provider-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.DeptProvideApp_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvideApp_8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-dept-provider-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.DeptProvideApp_8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvideApp_8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-dept-provider-8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.DeptProvideApp_8003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvideHystrixApp_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-dept-provide-hystrix-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.DeptProvideHystrixApp_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApp_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-zuul-gateway-9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.ZuulApp_9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hystrixDashBoardApp_9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-dept-consumer-hystrixDashboard-9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springcloud.hystrixDashBoardApp_9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2145" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DeptConsumerApp_81" />
+      <item itemvalue="Spring Boot.App_eureka_7002" />
+      <item itemvalue="Spring Boot.App_eureka_7003" />
+      <item itemvalue="Spring Boot.DeptConsumerFeignApp_82" />
+      <item itemvalue="Spring Boot.DeptProvideHystrixApp_8001" />
+      <item itemvalue="Spring Boot.DeptProvideApp_8002" />
+      <item itemvalue="Spring Boot.ConfigApp_3344" />
+      <item itemvalue="Spring Boot.App_eureka_7001" />
+      <item itemvalue="Spring Boot.DeptProvideApp_8001" />
+      <item itemvalue="Spring Boot.hystrixDashBoardApp_9001" />
+      <item itemvalue="Spring Boot.ZuulApp_9527" />
+      <item itemvalue="Spring Boot.ConfigClientApp_3355" />
+      <item itemvalue="Spring Boot.DeptProvideApp_8003" />
+      <item itemvalue="Spring Boot.ConfigEurekaApp_7001" />
+      <item itemvalue="Spring Boot.ConfigProviderApp_8001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigClientApp_3355" />
+        <item itemvalue="Spring Boot.App_eureka_7001" />
+        <item itemvalue="Spring Boot.ZuulApp_9527" />
+        <item itemvalue="Spring Boot.DeptProvideApp_8001" />
+        <item itemvalue="Spring Boot.hystrixDashBoardApp_9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b3ce12d" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af3b6d5-d6ce-4a7b-acb4-ee8ad4270a63" name="Default Changelist" comment="" />
+      <created>1568515399326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568515399326</updated>
+      <workItem from="1568515403139" duration="23674000" />
+      <workItem from="1568561886280" duration="3738000" />
+      <workItem from="1568595332366" duration="1031000" />
+      <workItem from="1568625603181" duration="1925000" />
+      <workItem from="1568628927752" duration="8679000" />
+      <workItem from="1568640727192" duration="9256000" />
+      <workItem from="1568688794756" duration="1807000" />
+      <workItem from="1568702391034" duration="7753000" />
+      <workItem from="1568710559051" duration="6373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

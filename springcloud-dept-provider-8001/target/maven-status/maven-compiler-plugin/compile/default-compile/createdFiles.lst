@@ -1,0 +1,5 @@
+org\springcloud\service\impl\DeptServiceImpl.class
+org\springcloud\controller\DepartmentController.class
+org\springcloud\service\DeptService.class
+org\springcloud\dao\DeptDao.class
+org\springcloud\DeptProvideApp_8001.class

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-client-3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-provider-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-consumer-81" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-consumer-feign-82" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-consumer-hystrixDashboard-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-provide-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-provider-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-provider-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-dept-provider-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka--7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-gateway-9527" charset="UTF-8" />
+  </component>
+</project>
